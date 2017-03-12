@@ -6,10 +6,6 @@
 *.crf
 *.lst
 
-# Libraries
-*.lib
-*.a
-
 # Shared objects (inc. Windows DLLs)
 *.dll
 *.so
@@ -38,3 +34,7 @@
 JLinkLog.txt
 JLinkSettings.ini
 build
+
+*.uvopt
+*.uvproj
+software/rtthread_examples/examples/9_*
